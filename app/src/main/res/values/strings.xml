@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">refactoring-sample</string>
+
+    <!-- General warnings -->
+    <string name="try_again">Try again!</string>
+    <string name="not_connected">Not connected!</string>
+    <string name="title">title</string>
+    <string name="secondary_text">secondary text</string>
+    <string name="supporting_text">supporting text</string>
+    <string name="show_places">Show Places</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</string>
+
+
+
+</resources>
